@@ -1,3 +1,3 @@
 # image-recognition
 
-extracting texts inside the image using tesseract
+extracting texts inside the image using tesseract and cv2
